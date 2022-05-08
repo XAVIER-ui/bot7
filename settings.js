@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['083181106073']
-global.premium = ['083181106073']
-global.ownernomer = '083181106073'
+global.owner = ['6283181106073']
+global.premium = ['6283181106073']
+global.ownernomer = '6283181106073'
 global.ownername = '🦄Dream Guy Xeon'
 global.botname = 'Xavier-bot'
 global.footer = 'Xeon Bot Inc.'
